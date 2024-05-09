@@ -38,6 +38,8 @@ print(U)
 Program to solve a matrix using LU decomposition.
 Developed by: T. Gayathri
 RegisterNumber: 212223100007
+
+
 import numpy as np
 from scipy.linalg import lu
 a=eval(input())
